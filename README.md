@@ -8,7 +8,7 @@ This application enables users to input a location and receive weekly weather in
 > [!IMPORTANT]  
 > Backend API doesn't return Access-Control-Allow-Origin CORS header, so you have to use some browser extension to disable CORS.
 
-![Main view](https://github.com/enxas/weather-app/blob/main/weather-app.png?raw=true)
+![Main application view](https://github.com/enxas/weather-app/blob/main/docs/images/weather-app.png?raw=true)
 
 ### Resources:
 API: [api.meteo.lt](https://api.meteo.lt/)  
